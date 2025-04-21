@@ -111,7 +111,7 @@ GradientBoostingRegressor(
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/reliance-trends-sales-dashboard.git
+git clone https://github.com/mvharsh/reliance-trends-sales-dashboard.git
 cd reliance-trends-sales-dashboard
 ```
 
@@ -149,4 +149,4 @@ https://reliance-trends-forecasting-dashboard.streamlit.app/
 
 ## 🔗 Blog Link 
 
-https://medium.com/@sweathasm.mohan07/sales-overview-dashboard-f94e07323297
+https://medium.com/@harshinivivekm/sales-overview-dashboard-28f88eb1cbb1
